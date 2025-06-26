@@ -13,6 +13,19 @@
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
 [![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white)](https://postcss.org/)
 [![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-orange)](https://openweathermap.org/)
+[![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000?logo=lucide&logoColor=white)](https://lucide.dev/)
+[![Context API](https://img.shields.io/badge/Context_API-61DAFB?logo=react&logoColor=white)](https://react.dev/reference/react/useContext)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GourangaDasSamrat/React-Weather-App?style=social)](https://github.com/GourangaDasSamrat/React-Weather-App/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/React-Weather-App?style=social)](https://github.com/GourangaDasSamrat/React-Weather-App/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/GourangaDasSamrat/React-Weather-App)](https://github.com/GourangaDasSamrat/React-Weather-App/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GourangaDasSamrat/React-Weather-App)](https://github.com/GourangaDasSamrat/React-Weather-App/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/GourangaDasSamrat/React-Weather-App)](https://github.com/GourangaDasSamrat/React-Weather-App/graphs/contributors)
+[![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/GourangaDasSamrat/React-Weather-App)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GourangaDasSamrat/React-Weather-App/pulls)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Freact-weather-app-nine-black.vercel.app%2F)](https://react-weather-app-nine-black.vercel.app/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/NPM-8.x-red?logo=npm)](https://www.npmjs.com/)
+[![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 A modern, intuitive weather application built with React and TypeScript. Get real-time weather updates, hourly forecasts, and manage your favorite locations with a beautiful, responsive interface.
 
