@@ -22,7 +22,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/GourangaDasSamrat/React-Weather-App)](https://github.com/GourangaDasSamrat/React-Weather-App/graphs/contributors)
 [![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/GourangaDasSamrat/React-Weather-App)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GourangaDasSamrat/React-Weather-App/pulls)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Freact-weather-app-nine-black.vercel.app%2F)](https://react-weather-app-nine-black.vercel.app/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Freact-weather-app-nine-black.vercel.app%2F)](https://ecosky.vercel.app/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/NPM-8.x-red?logo=npm)](https://www.npmjs.com/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
