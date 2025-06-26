@@ -51,7 +51,7 @@ Key highlights from the performance report:
 
 ## 🚀 Live Demo
 
-Experience EcoSky in action: [Live Demo](https://react-weather-app-nine-black.vercel.app/)
+Experience EcoSky in action: [Live Demo](https://ecosky.vercel.app/)
 
 ## 🎥 Video Demo
 
