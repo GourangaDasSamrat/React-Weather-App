@@ -6,8 +6,35 @@
 [![Vite](https://img.shields.io/badge/Vite-Latest-blue?logo=vite)](https://vitejs.dev/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-success?logo=vercel)](https://react-weather-app-nine-black.vercel.app/)
 [![Code Style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white)](https://tanstack.com/query/latest)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Radix UI](https://img.shields.io/badge/Radix_UI-161618?logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
+[![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white)](https://postcss.org/)
+[![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-orange)](https://openweathermap.org/)
 
 A modern, intuitive weather application built with React and TypeScript. Get real-time weather updates, hourly forecasts, and manage your favorite locations with a beautiful, responsive interface.
+
+## 📊 Performance
+
+### PageSpeed Insights Report
+
+[![PageSpeed Insights](https://img.shields.io/badge/PageSpeed_Insights-Live_Report-success?logo=google)](https://pagespeed.web.dev/analysis/https-react-weather-app-nine-black-vercel-app/9jav2qg6ij?form_factor=mobile)
+
+| Metric         | Score |
+| -------------- | ----- |
+| Performance    | 98    |
+| Accessibility  | 100   |
+| Best Practices | 95    |
+| SEO            | 100   |
+
+Key highlights from the performance report:
+
+- First Contentful Paint: 1.5s
+- Largest Contentful Paint: 1.9s
+- Total Blocking Time: 0ms
+- Cumulative Layout Shift: 0
 
 ## 🚀 Live Demo
 
@@ -84,8 +111,6 @@ src/
    ```bash
    npm run build
    ```
-
-
 
 ## 🤝 Contributing
 
