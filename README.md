@@ -55,7 +55,8 @@ Experience EcoSky in action: [Live Demo](https://ecosky.vercel.app/)
 
 ## 🎥 Video Demo
 
-[Coming Soon] Watch the demo video to see all features in action.
+[![Watch the video](https://img.youtube.com/vi/5yU1Fk3QZ5Y/maxresdefault.jpg)](https://youtu.be/5yU1Fk3QZ5Y?si=tIXD5zMxk67rhDFW)
+
 
 ## 💻 Tech Stack
 
