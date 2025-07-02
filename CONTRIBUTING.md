@@ -1,5 +1,23 @@
 # Contributing to EcoSky Weather App
 
+<p align="center">
+  <a href="https://github.com/GourangaDasSamrat/React-Weather-App/pulls">
+    <img src="https://img.shields.io/github/issues-pr/GourangaDasSamrat/React-Weather-App?style=for-the-badge" alt="Pull Requests">
+  </a>
+  <a href="https://github.com/GourangaDasSamrat/React-Weather-App/issues">
+    <img src="https://img.shields.io/github/issues/GourangaDasSamrat/React-Weather-App?style=for-the-badge" alt="Issues">
+  </a>
+  <a href="https://github.com/GourangaDasSamrat/React-Weather-App/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/GourangaDasSamrat/React-Weather-App?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">
+    <img src="https://img.shields.io/badge/Code%20Style-Prettier-F7B93E?style=for-the-badge&logo=prettier" alt="Prettier">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">
+    <img src="https://img.shields.io/badge/Lint-ESLint-4B32C3?style=for-the-badge&logo=eslint" alt="ESLint">
+  </a>
+</p>
+
 Thank you for your interest in contributing to the EcoSky Weather App! We welcome all kinds of contributions, including bug reports, feature requests, code improvements, documentation, and more.
 
 ## How to Contribute
