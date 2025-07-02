@@ -19,6 +19,7 @@ Thank you for your interest in contributing to the EcoSky Weather App! We welcom
 - Use descriptive variable and function names.
 - Write clear and concise comments where necessary.
 - Run `npm run lint` to check for linting errors.
+- **Use the [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extensions in your code editor for consistent formatting and linting.**
 
 ## Reporting Issues
 
