@@ -4,13 +4,17 @@
 [![React](https://img.shields.io/badge/React-18.3.1-blue?logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-Latest-blue?logo=vite)](https://vitejs.dev/)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-success?logo=vercel)](https://react-weather-app-nine-black.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-success?logo=vercel)](https://ecosky.vercel.app/)
 [![Code Style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white)](https://tanstack.com/query/latest)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Radix UI](https://img.shields.io/badge/Radix_UI-161618?logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
+[![Shadcn UI](https://img.shields.io/badge/shadcn--ui-111827?logo=vercel&logoColor=white)](https://ui.shadcn.com/)
+[![Sonner](https://img.shields.io/badge/Sonner-4F46E5?logo=sonner&logoColor=white)](https://sonner.emilkowal.ski/)
+[![React Helmet](https://img.shields.io/badge/React_Helmet-191970?logo=react&logoColor=white)](https://github.com/nfl/react-helmet)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white)](https://prettier.io/)
 [![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white)](https://postcss.org/)
 [![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-orange)](https://openweathermap.org/)
 [![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000?logo=lucide&logoColor=white)](https://lucide.dev/)
@@ -22,7 +26,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/GourangaDasSamrat/React-Weather-App)](https://github.com/GourangaDasSamrat/React-Weather-App/graphs/contributors)
 [![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/GourangaDasSamrat/React-Weather-App)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GourangaDasSamrat/React-Weather-App/pulls)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Freact-weather-app-nine-black.vercel.app%2F)](https://ecosky.vercel.app/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fecosky.vercel.app%2F)](https://ecosky.vercel.app/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/NPM-8.x-red?logo=npm)](https://www.npmjs.com/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -57,18 +61,20 @@ Experience EcoSky in action: [Live Demo](https://ecosky.vercel.app/)
 
 [![Watch the video](https://img.youtube.com/vi/5yU1Fk3QZ5Y/maxresdefault.jpg)](https://youtu.be/5yU1Fk3QZ5Y?si=tIXD5zMxk67rhDFW)
 
-
 ## 💻 Tech Stack
 
-| Category         | Technologies                         |
-| ---------------- | ------------------------------------ |
-| Frontend         | React 18, TypeScript, Vite           |
-| UI/Styling       | Tailwind CSS, Radix UI, Lucide Icons |
-| State Management | React Query, Context API             |
-| Routing          | React Router DOM                     |
-| Build Tools      | Vite, PostCSS                        |
-| APIs             | Weather API (OpenWeatherMap)         |
-| Deployment       | Vercel                               |
+| Category         | Technologies                                    |
+| ---------------- | ----------------------------------------------- |
+| Frontend         | React 18, TypeScript, Vite                      |
+| UI/Styling       | Tailwind CSS, Radix UI, Shadcn UI, Lucide Icons |
+| State Management | React Query, Context API                        |
+| Routing          | React Router DOM                                |
+| Build Tools      | Vite, PostCSS                                   |
+| APIs             | Weather API (OpenWeatherMap)                    |
+| SEO              | React Helmet                                    |
+| Notifications    | Sonner                                          |
+| Linting/Format   | ESLint, Prettier                                |
+| Deployment       | Vercel                                          |
 
 ## 🌟 Features
 
