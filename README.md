@@ -18,9 +18,25 @@
 
 A modern, intuitive weather application built with React and TypeScript. Get real-time weather updates, hourly forecasts, and manage your favorite locations with a beautiful, responsive interface.
 
-## 🚀 Live Demo
+<div align="center">
+  
+  [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GourangaDasSamrat/React-Weather-App)
 
-👉 [EcoSky Weather App](https://ecosky.vercel.app/)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GourangaDasSamrat/React-Weather-App)
+  
+  <a href="https://ecosky.vercel.app/"><strong>✨ View Live Demo »</strong></a>
+
+</div>
+  <p style="margin-top:16px;">
+    <a href="https://deepwiki.com/GourangaDasSamrat/React-Weather-App" title="Detailed documentation on DeepWiki">
+      <img alt="DeepWiki Docs" src="https://img.shields.io/badge/Documentation-DeepWiki-4B79FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    </a>
+  </p>
+  <p><em>For detailed documentation, guides, and configuration notes — visit the DeepWiki page above.</em></p>
+</div>
+---
+
+
 
 ## 💻 Modern Tech Stack
 
