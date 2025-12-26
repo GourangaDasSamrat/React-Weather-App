@@ -54,7 +54,7 @@ export function SeoHelmet({
   author = defaultProps.author,
   type = defaultProps.type,
 }: SeoHelmetProps) {
-  const siteUrl = "https://ecosky.vercel.app";
+  const siteUrl = "https://ecosky.gouranga.qzz.io";
   const fullUrl = `${siteUrl}${url}`;
 
   // JSON-LD structured data for author
