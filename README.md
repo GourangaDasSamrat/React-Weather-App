@@ -1,7 +1,7 @@
 # 🌦️ EcoSky - Modern Weather Application
 
 <p align="center">
-  <a href="https://ecosky.vercel.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fecosky.vercel.app%2F&style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://ecosky.gouranga.qzz.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fecosky.gouranga.qzz.io%2F&style=for-the-badge" alt="Live Demo"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge" alt="React"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&style=for-the-badge" alt="TypeScript"></a>
@@ -24,7 +24,7 @@ A modern, intuitive weather application built with React and TypeScript. Get rea
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GourangaDasSamrat/React-Weather-App)
   
-  <a href="https://ecosky.vercel.app/"><strong>✨ View Live Demo »</strong></a>
+  <a href="https://ecosky.gouranga.qzz.io/"><strong>✨ View Live Demo »</strong></a>
 
 </div>
   <p style="margin-top:16px;">
