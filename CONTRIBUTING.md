@@ -51,9 +51,31 @@ Thank you for your interest in contributing to the EcoSky Weather App! We welcom
 
 ## Author & Maintainer
 
-- **Gouranga Das Samrat**
-  Frontend Web Developer & Open Source Enthusiast
-  [Portfolio](https://gouranga-das.netlify.app/) | [GitHub](https://github.com/GourangaDasSamrat) | [LinkedIn](https://www.linkedin.com/in/gouranga-das-samrat/)
+## 👤 Author
+
+<p align="center">
+  <img src="https://i.postimg.cc/KjDqkbXm/1765031414996-3.jpg" 
+       alt="Gouranga Das Samrat" 
+       width="110" 
+       style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <b>Gouranga Das Samrat</b><br/>
+  <i>Full Stack Developer • MERN • Technical Writer</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gouranga-das-samrat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/gouranga_khulna">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:gouranga.samrat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## License
 
