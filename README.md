@@ -18,12 +18,12 @@
 A modern, intuitive weather application built with React and TypeScript. Get real-time weather updates, hourly forecasts, and manage your favorite locations with a beautiful, responsive interface.
 
 <div align="center">
-  
+
   [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GourangaDasSamrat/React-Weather-App)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GourangaDasSamrat/React-Weather-App)
-  
-  <a href="https://ecosky.gouranga.qzz.io/"><strong>✨ View Live Demo »</strong></a>
+
+  <a href="https://ecosky.gouranga.eu.org/"><strong>✨ View Live Demo »</strong></a>
 
 </div>
   <p style="margin-top:16px;">
